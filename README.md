@@ -1,2 +1,2 @@
 # Projeto de estudo do ReactNative<br>![Badge de versão do Node.js](https://img.shields.io/badge/node.js-v14.17.2-orange) ![Badge em desenvolvimento](https://img.shields.io/badge/status-em%20desenvolvimento-green)
-Projeto desenvolvido durante os estudos da lib ReactNative.
+Projeto desenvolvido durante os estudos da lib ReactNative e está sendo desenvolvido acompanhando os vídeos da série <b>Como criar app android e ios com JavaScript: Spotcast com React Native</b> do canal no YouTube Dev Soutinho (https://bityli.com/dPQpLY).
